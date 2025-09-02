@@ -1,0 +1,18 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller output
+dist/
+build/
+*.spec
+*.exe
+
+# IDE files (PyCharm)
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
